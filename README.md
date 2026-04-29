@@ -6,6 +6,7 @@
 
 ## Решение: 
 <img width="2482" height="1092" alt="Домашнее задание 1" src="https://github.com/user-attachments/assets/821f6d84-47d1-4e68-9d8f-eb4a941e4013" />
+
 ## Файлы конфигурации 1
 
 - [haproxy1.cfg](./haproxy1.cfg)
