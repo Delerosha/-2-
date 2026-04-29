@@ -16,7 +16,7 @@
 <img width="1388" height="261" alt="Условие 2" src="https://github.com/user-attachments/assets/851e255a-ee02-44a9-a9da-e32dee6f22d0" />
 
 Решение: 
-<img width="2473" height="1308" alt="Домашнее задание 2" src="https://github.com/user-attachments/assets/c1d78220-b278-42c2-a34a-13b96d194dc5" />
+<img width="2487" height="1231" alt="Доработка 1" src="https://github.com/user-attachments/assets/f02d3e42-4db2-4e47-b36d-20c172de1cbd" />
 
 ## Файлы конфигурации 2
 
