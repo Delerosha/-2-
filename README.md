@@ -16,7 +16,8 @@
 <img width="1388" height="261" alt="Условие 2" src="https://github.com/user-attachments/assets/851e255a-ee02-44a9-a9da-e32dee6f22d0" />
 
 Решение: 
-<img width="2487" height="1231" alt="Доработка 1" src="https://github.com/user-attachments/assets/f02d3e42-4db2-4e47-b36d-20c172de1cbd" />
+<img width="2488" height="1282" alt="image" src="https://github.com/user-attachments/assets/336c6a98-b579-4af3-9d97-aa78f5e46408" />
+
 
 ## Файлы конфигурации 2
 
